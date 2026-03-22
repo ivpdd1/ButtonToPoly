@@ -11,19 +11,19 @@ VIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIV\
 VIVIVIVIVI~ REQUIREMENTS2 ~IVIVIV\
 VIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIV\
 Node.js - with dgram and http installed\
-https://nodejs.org/en\
+https://nodejs.org/en
 
 Python\
-https://www.python.org/\
+https://www.python.org/
 
 CircuitPython 10.1.4(for the rasberry pi pico)\
-https://circuitpython.org/board/raspberry_pi_pico/\
+https://circuitpython.org/board/raspberry_pi_pico/
 
 CircuitPython libraries bundle for 10.x version\
-https://circuitpython.org/libraries\
+https://circuitpython.org/libraries
 
 Playit.gg UDP server\
-https://playit.gg/\
+https://playit.gg/
 
 Connect via breadboard(or just solder)\
 Rasberry pi pico GP6---->Arduino button(any pin)\
@@ -66,4 +66,4 @@ Enter cmd\
 It should open a command prompt\
 Enter bridge.js in it\
 Repeat\
-Enter buttonbridge.py\
+Enter buttonbridge.py
