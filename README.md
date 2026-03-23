@@ -27,13 +27,13 @@ https://playit.gg/
 
 VIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIV\
 VIVIVIVIVI~ TUTORIAL ~VIVIVIVIVIV\
-VIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIV\
+VIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIV
 
 Connect via breadboard(or just solder)
 Rasberry pi pico GP6---->Arduino button(any pin)
 Rasberry pi pico GND---->Arduino button(any pin)
 
-Connect to the pc(Rasberry pi pico---->Wire---->pc)
+Connect to the pc(Rasberry pi pico---->Wire---->pc)\
 Drop the uf2 file of circuitpython to your pico, it should reboot\
 Open "lib" folder in explorer\
 Drag adafruit_hid and adafruit_ticks.mpy from libraries bundle\
