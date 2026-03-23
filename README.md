@@ -22,7 +22,7 @@ https://circuitpython.org/board/raspberry_pi_pico/
 CircuitPython libraries bundle for 10.x version\
 https://circuitpython.org/libraries
 
-Playit.gg UDP server\
+Playit.gg UDP server WITH PORT 8080(no need for port forwarding, thats why we are using playit.gg)\
 https://playit.gg/
 
 VIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIV\
