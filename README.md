@@ -62,7 +62,7 @@ while True:
     time.sleep(0.01)
 ```
 
-Dont run it yourself, and dont use repl(it should run automatically)
+Dont run it yourself, and dont use repl(if you dont know what repl is, its even better, also it will run by itself)
 
 Open this folder\
 Edit buttonbridge.py and include your port with the url of the tunnel\
