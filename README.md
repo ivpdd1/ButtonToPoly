@@ -5,7 +5,7 @@ Rasberry pi pico - ~5$\
 Arduino button - ~1$<\
 Arduino wires - ~1$<\
 Wire for rasberry pi pico - ~10$\
-A computer that is not a potato\
+A computer that is not a potato
 
 VIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIV\
 VIVIVIVIVI~ REQUIREMENTS2 ~IVIVIV\
@@ -26,17 +26,17 @@ Playit.gg UDP server\
 https://playit.gg/
 
 VIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIV\
-VIVIVIVIVI~ TUTORIAL ~VIVIVIVIVIV\
+VIVIVIVIVI~ TUTORIAL ~VIVIVIVIVIVIV\
 VIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIVIV
 
-Connect via breadboard(or just solder)
+Connect via breadboard(or just solder)\
 Rasberry pi pico GP6---->Arduino button(any pin)
 Rasberry pi pico GND---->Arduino button(any pin)
 
 Connect to the pc(Rasberry pi pico---->Wire---->pc)\
 Drop the uf2 file of circuitpython to your pico, it should reboot\
 Open "lib" folder in explorer\
-Drag adafruit_hid and adafruit_ticks.mpy from libraries bundle\
+Drag adafruit_hid and adafruit_ticks.mpy from libraries bundle
 
 Open code.py in rasberry pi pico and paste this:
 
