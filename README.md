@@ -16,7 +16,7 @@ https://nodejs.org/en
 Python - with pyserial installed(pip install pyserial in cmd)\
 https://www.python.org/
 
-CircuitPython 10.1.4(for the rasberry pi pico)
+CircuitPython 10.1.4(for the rasberry pi pico)\
 https://circuitpython.org/board/raspberry_pi_pico/
 
 CircuitPython libraries bundle for 10.x version\
